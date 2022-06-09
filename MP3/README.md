@@ -3,14 +3,12 @@ Trabajo realizado por Miguel Ángel Veloz Lucas y Edwin Enrique Pérez Rodrígue
 
 El miniproyecto consta de:
 
-Implementación del Método Cadena Markov-Monte Carlo (MCMC)
+1.- Implementación del MCMC con las mejores práticas de Julia.
 
-Implementación del MCMC con las mejores práticas de Julia.
+2.- Cálcular los tiempos de ejecucuión con una matriz de tamaño 6x6.
 
-Cálcular los tiempos de ejecucuión con una matriz de tamaño 6x6.
+3.- Aumentar el tamaño del Sistema de Ecuaiones Lineales Algebraico (SELA) y calcular los tiempos de ejecución.
 
-Aumentar el tamaño del Sistema de Ecuaiones Lineales Algebraico (SELA) y calcular los tiempos de ejecución.
+4.- Implementar uso de AparseArrays.jl para optimizar memoria en SELA dispersos y calcular tiempos de ejecución.
 
-Implementar uso de AparseArrays.jl para optimizar memoria en SELA dispersos y calcular tiempos de ejecución.
-
-Probar alguna estrategía de Computo de Alto Rendimiento para disminuir el tiempo de ejecuón de MCMC.
+5.- Probar alguna estrategía de Computo de Alto Rendimiento para disminuir el tiempo de ejecuón de MCMC.
